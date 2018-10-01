@@ -1,0 +1,7 @@
+﻿  배열을 이용한 스택.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\스택\배열을 이용한 스택\student.h(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\스택\배열을 이용한 스택\student.h(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  배열을 이용한 스택.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\스택\Debug\배열을 이용한 스택.exe
+  배열을 이용한 스택.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\스택\Debug\배열을 이용한 스택.pdb (Partial PDB)

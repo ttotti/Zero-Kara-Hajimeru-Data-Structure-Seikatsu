@@ -1,0 +1,5 @@
+﻿  클래스.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\자료구조기초\클래스\클래스.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\자료구조기초\클래스\클래스.cpp(28): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+  클래스.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\자료구조기초\Debug\클래스.exe

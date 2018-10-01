@@ -1,0 +1,6 @@
+﻿  미로 탐색 문제.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\포인터와 연결리스트\미로 탐색 문제\maze.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\포인터와 연결리스트\미로 탐색 문제\maze.h(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  미로 탐색 문제.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\포인터와 연결리스트\Debug\미로 탐색 문제.exe

@@ -1,0 +1,3 @@
+﻿  이진탐색트리.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\이진탐색트리\binsrchtree.h(18): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'BinaryNode *'입니다.
+  이진탐색트리.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\트리\Debug\이진탐색트리.exe

@@ -1,0 +1,8 @@
+﻿  수식 트리.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(33): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(46): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(46): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(68): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\트리\수식 트리\binarytree.h(68): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  수식 트리.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\트리\Debug\수식 트리.exe

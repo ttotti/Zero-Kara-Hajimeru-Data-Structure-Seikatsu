@@ -1,0 +1,4 @@
+﻿  색인 순차 탐색.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\탐색\색인 순차 탐색\색인 순차 탐색.cpp(87): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\탐색\색인 순차 탐색\색인 순차 탐색.cpp(87): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  색인 순차 탐색.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\탐색\Debug\색인 순차 탐색.exe

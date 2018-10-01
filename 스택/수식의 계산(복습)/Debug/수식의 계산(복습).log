@@ -1,0 +1,6 @@
+﻿  수식의 계산(복습).cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\스택\수식의 계산(복습)\stack.h(8): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\자료구조\스택\수식의 계산(복습)\수식의 계산(복습).cpp(14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  수식의 계산(복습).vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\스택\Debug\수식의 계산(복습).exe
+  수식의 계산(복습).vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\자료구조\스택\Debug\수식의 계산(복습).pdb (Partial PDB)
